@@ -5,5 +5,4 @@
     <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
     <string name="question">What kind of animal is this?</string>
     <string name="confirm">CONFIRM</string>
-    <string name="answer">Type here</string>
 </resources>
